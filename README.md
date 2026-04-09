@@ -1,2 +1,2 @@
 # staticsite
-boot dev static sate in python course
+boot dev static site in python course
